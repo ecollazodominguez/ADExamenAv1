@@ -100,10 +100,10 @@ public class Oracletextodelimitadovendas_2 {
 
                     System.out.println("total: " + totalv + "\n");
 
-                    pw.print(nv + "   ");
-                    pw.print(nomp + "   ");
-                    pw.print(cantv + "   ");
-                    pw.println(totalv + "   ");
+                    pw.print(nv + "\t");
+                    pw.print(nomp + "\t");
+                    pw.print(cantv + "\t");
+                    pw.println(totalv + "\t");
                 }
 
             }
